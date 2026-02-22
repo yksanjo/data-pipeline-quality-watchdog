@@ -1,10 +1,10 @@
-# Data Pipeline Quality Watchdog
+# data-pipeline-quality-watchdog
 
-Detect schema drift, freshness issues, and anomalous pipeline quality.
+## Detailed Description
 
 ## Vertical
 
-infrastructure
+## Problem Statement
 
 ## Production MVP Deliverables
 
